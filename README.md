@@ -22,7 +22,7 @@ For this project, I was interested in using the No-show Appointments dataset ava
 
 There is one notebook available here to showcase work related to the above questions.  The notebook includes the necessary data wrangling (gathering, assessing and cleaning) and data analysis steps for answering above questions.  Markdown cells were used to assist in walking through the thought process for individual steps.
 
-Also, the dataset in CSV format is also available in the repository.
+The dataset in CSV format is also available in the repository.
 
 ## Results<a name="results"></a>
 
