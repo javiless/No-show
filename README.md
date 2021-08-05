@@ -26,7 +26,7 @@ The dataset in CSV format is also available in the repository.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).PONER LINK MÍO
+The main findings of the code can be found at the post available [here](https://medium.com/@javiles.garcia/doctors-keep-getting-abandoned-what-can-we-do-for-them-813957eec21e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
