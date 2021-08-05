@@ -14,9 +14,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interested in using the No-show Appointments dataset available in [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments) with the objective of proposing actions that might increase the appointment attendance rate. These action proposals would come from the result of analysing the dataset in order to answer the following questions:
 
-1. Does the time between Scheduled and Appointment day have an effect on the attendance rate?
-2. How does patients' age impact on showing/not-showing up?
-3. Is the patients' location an important aspect to take into consideration regarding the attendance?
+1. Does the time between Scheduled and Appointment dates have an effect on the attendance rate?
+2. How does patients' age impact on absenteeism?
+3. Is the patients' location an important aspect to consider regarding the attendance?
 
 ## File Descriptions <a name="files"></a>
 
